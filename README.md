@@ -2,7 +2,7 @@
   <img src="https://drive.google.com/uc?id=1UZbJzROZ99opQw9AwypHYn6ZO_QGsSHw" alt="Logo Universidad" width="200"/>
 </p>
 
-
+<h2 align="center">
 ## PRO-SCORE: MODELO DE CLASIFICACIÓN PARA PREDICCIÓN DE DESEMPEÑO EN PRUEBAS SABER PRO EN COLOMBIA. 
 
 ### DESCRIPCIÓN DEL PROYECTO 
