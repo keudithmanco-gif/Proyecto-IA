@@ -1,6 +1,7 @@
-<p align="right">
-  <img src="https://drive.google.com/uc?id=1UZbJzROZ99opQw9AwypHYn6ZO_QGsSHw" alt="Logo Universidad" width="150"/>
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1UZbJzROZ99opQw9AwypHYn6ZO_QGsSHw" alt="Logo Universidad" width="200"/>
 </p>
+
 
 ## PRO-SCORE: MODELO DE CLASIFICACIÓN PARA PREDICCIÓN DE DESEMPEÑO EN PRUEBAS SABER PRO EN COLOMBIA. 
 
