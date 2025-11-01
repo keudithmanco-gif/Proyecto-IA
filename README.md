@@ -33,3 +33,12 @@
 - ENTREGA 3: MODELO FINAL. 
 
 ### EJECUCIÓN DEL PROYECTO
+# Mostrar Miniatura de un Video de YouTube en el Archivo READMED.md de un Repositorio de GitHub
+ 
+[![](https://markdown-videos.deta.dev/youtube/rp6-JZjazdA)]([https://youtu.be/NarBox1LkYc](https://youtu.be/rp6-JZjazdA?si=DCuEf5c1OUp_Q1bP))
+
+
+
+
+
+
