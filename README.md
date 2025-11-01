@@ -35,7 +35,7 @@
 ### EJECUCIÓN DEL PROYECTO
 # Video sobre el avance del proyecto.
 
-[![](https://markdown-videos.deta.dev/youtube/rp6-JZjazdA)](https://youtu.be/rp6-JZjazdA)
+[![](https://markdown-videos.deta.dev/youtube/rp6-JZjazdA)](https://youtu.be/rp6-JZjazdA)]
 
 
 
