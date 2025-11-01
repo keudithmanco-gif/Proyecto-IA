@@ -33,10 +33,9 @@
 - ENTREGA 3: MODELO FINAL. 
 
 ### EJECUCIÓN DEL PROYECTO
-# Video sobre el avance del proyecto.
+## 🎬 Video sobre el avance del proyecto
 
-[![](https://markdown-videos.deta.dev/youtube/rp6-JZjazdA)](https://www.youtube.com/watch?v=rp6-JZjazdA)
-
+[![Ver video en YouTube](https://markdown-videos.deta.dev/youtube/rp6-JZjazdA)](https://youtu.be/rp6-JZjazdA)
 
 
 
