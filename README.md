@@ -37,6 +37,10 @@
 
 [![Ver video en YouTube](https://img.youtube.com/vi/rp6-JZjazdA/0.jpg)](https://www.youtube.com/watch?v=rp6-JZjazdA)
 
+## 🎬 Video final del proyecto introducción a la Inteligencia Artificial
+
+[![Ver video en YouTube](https://img.youtube.com/vi/OS2VZvId2oc/0.jpg)](https://www.youtube.com/watch?v=OS2VZvId2oc)
+
 
 
 
